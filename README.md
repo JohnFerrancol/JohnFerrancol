@@ -5,11 +5,9 @@ Hello World 👋! I am John Ferrancol. I am currently a third year Singapore Pol
 ## What Am I currently working on 📃
 - The Odin Project, An open-source curriculum for learning full-stack web development
 - AI4I, Programme designed to help students gain proficiency in AI
-- Google Data Analytics, Professional Certificate offered by Google to learn Data Analysis
 
 ## Tech Stack 💻
 - Front End Web Development: HTML, CSS and ReactJS
-- Back End Web Development: NodeJS
 
 
 
