@@ -6,6 +6,8 @@ Hello World 👋! I am John Ferrancol. I am currently a third year Singapore Pol
 - The Odin Project, An open-source curriculum for learning full-stack web development
 - AI4I, Programme designed to help students gain proficiencyt in AI
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnFerrancol)](https://github.com/JohnFerrancol/github-readme-stats)
+
 <!--
 **JohnFerrancol/JohnFerrancol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
