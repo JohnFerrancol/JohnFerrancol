@@ -3,10 +3,11 @@
 Hello World 👋! I am John Ferrancol. I am currently a third year Singapore Polytechnic Student studying Mechatronics and Robotics and aspiring to study Computer Science in the National University of Singapore (NUS). 
 
 ## What Am I currently working on
-- The Odin Project, An open-source curriculum for learning full-stack web development
-- AI4I, Programme designed to help students gain proficiency in AI
+- ![alt text](https://avatars.githubusercontent.com/u/4441966?s=280&v=4) The Odin Project, An open-source curriculum for learning full-stack web development
+- ![alt text](https://learn.aisingapore.org/wp-content/uploads/2019/06/AISG-Vertical-Logo-wo-tagline-RGB-Full-Colour.png) AI4I, Programme designed to help students gain proficiency in AI
 
-[[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnFerrancol)](https://github.com/JohnFerrancol/github-readme-stats)
+## Tech Stack
+
 
 <!--
 **JohnFerrancol/JohnFerrancol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,4 +22,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnFerrancol)](https://github.com/JohnFerrancol/github-readme-stats)
 -->
