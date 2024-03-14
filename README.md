@@ -1,6 +1,6 @@
 # John Ferrancol 
 
-Hello World 👋! I am John Ferrancol. I am currently a third year Singapore Polytechnic Student studying Mechatronics and Robotics and aspiring to study Computer Science in the National University of Singapore (NUS). 
+Hello World 👋! I am John Ferrancol. I am currently a third year Singapore Polytechnic Student studying Mechatronics and Robotics and is going to study Computer Science in the National University of Singapore (NUS). 
 
 ## What Am I currently working on 📃
 - The Odin Project, An open-source curriculum for learning full-stack web development
