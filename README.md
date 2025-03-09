@@ -1,13 +1,18 @@
 # John Ferrancol 
 
-Hello World 👋! I am John Ferrancol. I am currently a third year Singapore Polytechnic Student studying Mechatronics and Robotics and is going to study Computer Science in the National University of Singapore (NUS). 
+Hello World 👋! I am John Ferrancol. I am a Singapore Polytechnic Mechatronics and Robotics Graduate and will join the National University of Singapore (NUS) to study Computer Science.
+I love the world of Software and Robotics, I have a passion for developing software that can make a positive impact on the world! 
 
 ## What Am I currently working on 📃
-- The Odin Project, An open-source curriculum for learning full-stack web development
-- AI4I, Programme designed to help students gain proficiency in AI
+- The Odin Project, an open-source curriculum for learning full-stack web development
+  - [Odin Recipes](https://github.com/JohnFerrancol/odin-recipes)
+  - [Odin Landing Page](https://github.com/JohnFerrancol/odin-landing-page)
 
 ## Tech Stack 💻
-- Front End Web Development: HTML, CSS and ReactJS
+- Front End Web Development: HTML, CSS, ReactJS
+- Back End Web Development: Django
+- Programming Language: Python, C/C++, Javascript, Java
+   
 
 
 
