@@ -7,6 +7,7 @@ I love the world of Software and Robotics, I have a passion for developing softw
 - The Odin Project, an open-source curriculum for learning full-stack web development
   - [Odin Recipes](https://github.com/JohnFerrancol/odin-recipes)
   - [Odin Landing Page](https://github.com/JohnFerrancol/odin-landing-page)
+  - [Odin Rock Paper Scissors](https://github.com/JohnFerrancol/odin-rock-paper-scissors)
 
 ## Tech Stack 💻
 - Front End Web Development: HTML, CSS, ReactJS
