@@ -31,7 +31,7 @@ I love the world of Software and Robotics, I have a passion for developing softw
 <img align="left" alt="Linux" width="50px"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 
 <br/><br/>
-### John's Stats 📊
+## John's Stats 📊
           
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnFerrancol)](https://github.com/JohnFerrancol/github-readme-stats)
 
