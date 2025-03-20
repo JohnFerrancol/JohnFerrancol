@@ -28,14 +28,11 @@ I love the world of Software and Robotics, I have a passion for developing softw
 <img align="left" alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="AWS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 <img align="left" alt="Postman" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" />
-<img align="left" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img align="left" alt="Linux" width="50px"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
           
+### John's Stats 📊
           
-
-          
-
-<br />
-   
+[[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnFerrancol)](https://github.com/JohnFerrancol/github-readme-stats)
 
 
 
