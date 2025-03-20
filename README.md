@@ -9,8 +9,6 @@ I love the world of Software and Robotics, I have a passion for developing softw
   - [Odin Landing Page](https://github.com/JohnFerrancol/odin-landing-page)
   - [Odin Rock Paper Scissors](https://github.com/JohnFerrancol/odin-rock-paper-scissors)
   - [Odin Etch-A-Sketch(Work in Progress)](https://github.com/JohnFerrancol/odin-etch-a-sketch)
-- CS50 Web, a web development course intending to be done after doing CS50 using HTML, CSS, Javascript, Django and Bootstrap
-  - [Capstone Project(Work in Progress](https://cs50.harvard.edu/web/2020/projects/final/capstone/)
 
 ## Tech Stack 💻
 <h3 align="left">Programming Language</h3>
