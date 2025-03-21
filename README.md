@@ -8,7 +8,7 @@ I love the world of Software and Robotics, I have a passion for developing softw
   - [Odin Recipes](https://github.com/JohnFerrancol/odin-recipes)
   - [Odin Landing Page](https://github.com/JohnFerrancol/odin-landing-page)
   - [Odin Rock Paper Scissors](https://github.com/JohnFerrancol/odin-rock-paper-scissors)
-  - [Odin Etch-A-Sketch(Work in Progress)](https://github.com/JohnFerrancol/odin-etch-a-sketch)
+  - [Odin Etch-A-Sketch](https://github.com/JohnFerrancol/odin-etch-a-sketch)
 
 ## Tech Stack 💻
 <h3 align="left">Programming Language</h3>
