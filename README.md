@@ -5,10 +5,19 @@ I love the world of Software and Robotics, I have a passion for developing softw
 
 ## What Am I currently working on 📃
 - The Odin Project, an open-source curriculum for learning full-stack web development using PERN (PostgreSQL, ExpressJS, ReactJS, NodeJS)
-  - [Recipes](https://github.com/JohnFerrancol/recipes)
-  - [Landing Page](https://github.com/JohnFerrancol/landing-page)
-  - [Rock Paper Scissors](https://github.com/JohnFerrancol/rock-paper-scissors)
-  - [Etch-A-Sketch](https://github.com/JohnFerrancol/etch-a-sketch)
+  - HTML, CSS and Javascript
+    - [Recipes](https://github.com/JohnFerrancol/recipes)
+    - [Landing Page](https://github.com/JohnFerrancol/landing-page)
+    - [Rock Paper Scissors](https://github.com/JohnFerrancol/rock-paper-scissors)
+    - [Etch-A-Sketch](https://github.com/JohnFerrancol/etch-a-sketch)
+    - [Calculator(Work In Progress](https://github.com/JohnFerrancol/calculator)
+  - React
+  - Databases
+  - NodeJS
+ 
+## What I have done ✅
+- CS50 Web Development course, an extension to CS50x: Introduction to Computer Science
+  - [Capstone Project]()
 
 ## Tech Stack 💻
 <h3 align="left">Programming Language</h3>
