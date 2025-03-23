@@ -16,7 +16,7 @@ I love the world of Software and Robotics, I have a passion for developing softw
   - NodeJS
  
 ## What I have done ✅
-- CS50 Web Development course, an extension to CS50x: Introduction to Computer Science
+- CS50 Web Development course, an extension to CS50x: Introduction to Computer Science using Django
   - [Capstone Project]()
 
 ## Tech Stack 💻
