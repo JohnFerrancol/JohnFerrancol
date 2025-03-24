@@ -10,7 +10,7 @@ I love the world of Software and Robotics, I have a passion for developing softw
     - [Landing Page](https://github.com/JohnFerrancol/landing-page)
     - [Rock Paper Scissors](https://github.com/JohnFerrancol/rock-paper-scissors)
     - [Etch-A-Sketch](https://github.com/JohnFerrancol/etch-a-sketch)
-    - [Calculator(Work In Progress)](https://github.com/JohnFerrancol/calculator)
+    - [Calculator](https://github.com/JohnFerrancol/calculator)
   - React
   - Databases
   - NodeJS
