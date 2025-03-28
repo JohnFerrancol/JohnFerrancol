@@ -3,21 +3,6 @@
 Hello World 👋! I am John Ferrancol. I am a Singapore Polytechnic Mechatronics and Robotics Graduate and will join the National University of Singapore (NUS) to study Computer Science.
 I love the world of Software and Robotics, I have a passion for developing software that can make a positive impact on the world! 
 
-## What Am I currently working on 📃
-- The Odin Project, an open-source curriculum for learning full-stack web development using PERN (PostgreSQL, ExpressJS, ReactJS, NodeJS)
-  - HTML, CSS and Javascript
-    - [Recipes](https://github.com/JohnFerrancol/recipes)
-    - [Landing Page](https://github.com/JohnFerrancol/landing-page)
-    - [Rock Paper Scissors](https://github.com/JohnFerrancol/rock-paper-scissors)
-    - [Etch-A-Sketch](https://github.com/JohnFerrancol/etch-a-sketch)
-    - [Calculator](https://github.com/JohnFerrancol/calculator)
-  - React
-  - Databases
-  - NodeJS
- 
-## What I have done ✅
-- CS50 Web Development course, an extension to CS50x: Introduction to Computer Science using Django
-
 ## Tech Stack 💻
 <h3 align="left">Programming Language</h3>
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
